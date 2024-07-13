@@ -11,7 +11,7 @@ defineProps({
 <template>
   <div>
     <div
-      className="dashboard-main-content-top-bar shadow-sm flex justify-between items-center gap-1"
+      className="dashboard-main-content-top-bar shadow-sm flex justify-between items-center gap-1 !py-2"
     >
       <p className="text-[14px] sm:text-[18px] font-semibold">{{ title }}</p>
       <div className="flex gap-3 items-center">
